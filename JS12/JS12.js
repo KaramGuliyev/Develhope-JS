@@ -1,0 +1,1 @@
+console.log("testing" == "testing" && "Mario" == "Mario") //the result must be true
